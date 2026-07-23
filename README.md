@@ -36,11 +36,11 @@
 除了我们独立精挑细选的百大机场评测库，这里特别为您引荐我们的核心生态合作伙伴。他们提供极具竞争力、极简傻瓜式的全地形网络加速服务：
 
 <p align="left">
-  <a href="http://localhost:4321/brands/yifan/"><img src="https://img.shields.io/badge/🥇_全站首选-1FAN--CLOUD_一翻云官方入口-0052FF?style=for-the-badge&logo=cloudflare&logoColor=white" alt="一翻云入口" /></a>
+  <a href="https://github.com/1fan-Cloud/my-yifan-cloud-vpn/blob/main/README.md"><img src="https://img.shields.io/badge/🥇_生态推荐-1FAN--CLOUD_一翻云指南-0052FF?style=for-the-badge&logo=github&logoColor=white" alt="一翻云指南" /></a>
   &nbsp;
-  <a href="http://localhost:4321/brands/feimao/"><img src="https://img.shields.io/badge/🥈_专线推荐-FEIMAO--CLOUD_飞猫云官方入口-FF4500?style=for-the-badge&logo=fastly&logoColor=white" alt="飞猫云入口" /></a>
+  <a href="https://vpnsknow.com"><img src="https://img.shields.io/badge/🥈_核心主站-VPNSKNOW.COM_机场导航-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VPNSKNOW" /></a>
   &nbsp;
-  <a href="http://localhost:4321/brands/xingdaomeng/"><img src="https://img.shields.io/badge/🥉_老牌稳定-SINGISLAND_星岛梦官方入口-9932CC?style=for-the-badge&logo=vultr&logoColor=white" alt="星岛梦入口" /></a>
+  <a href="https://github.com/Maplewhite-net"><img src="https://img.shields.io/badge/🥉_开源伙伴-MAPLEWHITE--NET_枫白网络-9932CC?style=for-the-badge&logo=github&logoColor=white" alt="Maplewhite-net" /></a>
 </p>
 
 ---
