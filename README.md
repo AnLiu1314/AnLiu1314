@@ -26,7 +26,7 @@
 如果您在寻找高稳定性的 **IEPL/IPLC 物理专线**、**Netflix/Disney+ 4K 原生解锁**，或是最新前沿的抗封锁指南，请直接访问我们的官方主站。全天候动态监测，为您过滤不良服务商：
 
 <p align="left">
-  <a href="http://localhost:4321/"><img src="https://img.shields.io/badge/🌐_官方入口-JICHANGFAST.COM-0052FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="官方主站入口" /></a>
+  <a href="https://jichangfast.com/"><img src="https://img.shields.io/badge/🌐_官方入口-JICHANGFAST.COM-0052FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="官方主站入口" /></a>
 </p>
 
 ---
