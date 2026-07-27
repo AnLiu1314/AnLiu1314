@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="http://localhost:4321/"><img src="https://img.shields.io/badge/官方主站-JICHANGFAST.COM-0052FF?style=for-the-badge&logo=astro&logoColor=white" alt="官方主站" /></a>
+  <a href="https://jichangfast.com/"><img src="https://img.shields.io/badge/官方主站-JICHANGFAST.COM-0052FF?style=for-the-badge&logo=astro&logoColor=white" alt="官方主站" /></a>
   <a href="https://github.com/AnLiu1314/jichangfast.review"><img src="https://img.shields.io/badge/开源测评库-JICHANGFAST.REVIEW-00DC82?style=for-the-badge&logo=github&logoColor=white" alt="开源测评库" /></a>
   <a href="mailto:AnLiu1314@proton.me"><img src="https://img.shields.io/badge/站长邮箱-AnLiu1314@proton.me-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white" alt="站长邮箱" /></a>
 </p>
